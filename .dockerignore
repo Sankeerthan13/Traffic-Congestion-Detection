@@ -1,0 +1,20 @@
+# Ignore Python cache files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore Git files
+.git
+.gitignore
+
+# Ignore logs and outputs
+logs/
+outputs/
+
+
+# Ignore any local IDE/editor configuration files
+.vscode/
+.idea/
+*.swp
+
