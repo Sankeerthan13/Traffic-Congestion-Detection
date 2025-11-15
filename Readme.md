@@ -1,9 +1,9 @@
 
-# Traffic Congestion Prediction Application
+# Traffic Congestion Detection Application
 
 ## Overview
 
-This is a traffic congestion prediction application built with FastAPI, leveraging machine learning models to analyze and predict traffic conditions from video inputs. Developed as a group project under the Center of Excellence in AI & ML, it provides a robust API for processing both video and individual frame predictions.
+This is a Traffic congestion detection application built with FastAPI, leveraging machine learning models to analyze and predict traffic conditions from video inputs. Developed as a group project under the Center of Excellence in AI & ML, it provides a robust API for processing both video and individual frame predictions.
 
 ## Features
 
